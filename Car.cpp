@@ -5,6 +5,7 @@
 
 #include "Car.h"
 
+
 Car::Car() { // Declaring our constructor class
     carId = 0;
     soldStatus = false;
